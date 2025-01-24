@@ -1,1 +1,19 @@
-This is the home page
+This is the home page.
+
+It has a navigation menu at the top of the page which includes a company logo and
+navigation links to all pages that are available on the website:
+
+-Home
+-Computers
+-Phones
+-Reviews
+-Contact us
+-Checkout
+
+Beneath this is the document body which contains a section of tiles that feature the
+companies latest releases of computers and phones and a blog with latest news on
+upcoming tech products.
+
+There is a footer which has information about delivery and returns information
+as well as FAQs.
+
