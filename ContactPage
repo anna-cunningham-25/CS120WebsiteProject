@@ -1,0 +1,21 @@
+This is the contact us page.
+
+It has a navigation menu at the top of the page which includes a company logo and
+navigation links to all pages that are available on the website:
+
+-Home
+-Computers
+-Phones
+-Reviews
+-Contact us
+-Checkout
+
+Beneath this is the document body which contains text information about how the customer
+can contact the company either by email, phone or post. It also displays the opening
+hours of the customer service team.
+
+There is a form for complaints and the company website accessibility statement is
+displayed.
+
+There is a footer which has information about delivery and returns information
+as well as FAQs.
