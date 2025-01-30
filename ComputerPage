@@ -1,0 +1,37 @@
+Computer Page
+----------
+The phone page displays a list of laptops and computers available for sale. It includes images and details about the
+brand, model, price and specifications.
+
+Layout and Sections
+-------------------
+It has a navigation menu at the top of the page which includes a company logo and a hamburger menu which expands
+showing navigation links to all pages that are available on the website:
+
+    -Home
+    -Computers
+    -Phones
+    -Reviews
+    -Contact us
+    -Checkout
+
+Main Content:
+ Filters & Sorting:
+    - Filters: Brand, price range, storage size, etc
+    - Sorting: Price low to high, price high to low, newest first
+
+ Products:
+    - Displayed in a grid format with:
+      - Image
+      - Name & model
+      - Price
+      - Short description
+      - “View Details” or “Add to Cart” button
+
+ Featured Products:
+    - Special offers, bestsellers, or new arrivals
+
+
+Interactive Elements:
+---------------------
+Clicking on a product opens a detailed page with full specifications.
