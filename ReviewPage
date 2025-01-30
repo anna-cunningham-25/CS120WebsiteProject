@@ -1,0 +1,48 @@
+Review Page
+----------
+The review page is a page dedicated to customer feedback on the phones and computers sold on the website. 
+It allows customers to share their experiences when shopping with the website in the form of a review, 
+gives them the opportunity to rate products, and read other customers' opinions before making a purchase.
+
+Layout and Sections
+-------------------
+It has a navigation menu at the top of the page which includes a company logo and a hamburger menu which expands
+showing navigation links to all pages that are available on the website:
+
+    -Home
+    -Computers
+    -Phones
+    -Reviews
+    -Contact us
+    -Checkout
+
+Main Content:
+The main content of the review page will be comprised of two sections. The customer review section at the top; 
+this will be where the customer can access all previous reviews left behind by prior customers. Then at the bottom
+we will have the review submission form where custoers can submit their reviews
+
+Customer Review Section
+    -Sorting Options: Sort reviews by date, rating (highest to lowest), or most helpful. 
+    -Filter by Product: Dropdown to filter reviews by specific products.
+    -Individual Reviews Display:
+    -Customer name (or anonymous if not provided).
+    -Star rating (visual representation of 1-5 stars).
+    -Review text.
+    -Images uploaded by customers.
+    -Date of submission.
+    -Upvote/Downvote button for helpful reviews.
+
+Review Submission Form
+This will be a form which will allow customers to submit reviews. The form will consist of
+     -Name (Required) – Text input.
+     -Email (Required, this will be used by to verify if the user has actually ordered the product they are reviewing) – Text input.
+     -Product Name (Required) – Dropdown list of available products.
+     -Rating (Required) – 1 to 5-star selection.
+     -Review Text (Required) – Text area for feedback.
+     -Image Upload (Optional) – Customers can attach an image of the product.
+     -Submit Button – To submit the review.
+
+
+
+At the bottom of the page there is a footer which has information about delivery and returns information
+as well as FAQs and the company's terms and conditons for any customers wondering how their data will be used and stored.
