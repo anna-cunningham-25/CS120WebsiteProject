@@ -23,7 +23,7 @@ we will have the review submission form where custoers can submit their reviews
 
 Customer Review Section
     -Sorting Options: Sort reviews by date, rating (highest to lowest), or most helpful. 
-    -Filter by Product: Dropdown to filter reviews by specific products.
+    -Searchbar:This will allow customers to search the name of the product they would like to see reviews for.
     -Individual Reviews Display:
     -Customer name (or anonymous if not provided).
     -Star rating (visual representation of 1-5 stars).
